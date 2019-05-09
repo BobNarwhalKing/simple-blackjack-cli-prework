@@ -8,7 +8,7 @@ def deal_card
 end
 
 def display_card_total
-  
+
 end
 
 def prompt_user
@@ -42,4 +42,3 @@ end
 def runner
   # code runner here
 end
-    
